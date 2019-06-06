@@ -100,7 +100,7 @@ namespace ConsoleApp1
 
             else
             { Console.WriteLine($"Фигура: ромб"); }
-            return 0;
+            
         }
 
 
